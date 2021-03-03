@@ -59,7 +59,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'work-day-scheduler.png',
+    img: 'workday-scheduler.png',
     title: 'Work-Day-Scheduler',
     info:
       'Workday-Scheduler is a simple calendar application that allows the user to save events for each hour of the day.',
