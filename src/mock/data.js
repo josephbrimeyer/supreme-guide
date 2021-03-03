@@ -57,6 +57,16 @@ export const projectsData = [
     url: 'https://josephbrimeyer.github.io/weather-dashboard/',
     repo: 'https://github.com/josephbrimeyer/weather-dashboard', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'work-day-scheduler.png',
+    title: 'Work-Day-Scheduler',
+    info:
+      'Workday-Scheduler is a simple calendar application that allows the user to save events for each hour of the day.',
+    info2: 'Built with HTML, CSS, JavaScript, and jQuery.',
+    url: 'https://josephbrimeyer.github.io/workday-scheduler/',
+    repo: 'https://github.com/josephbrimeyer/workday-scheduler', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
