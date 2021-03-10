@@ -40,6 +40,16 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'burger-time.PNG',
+    title: 'Burger-Time',
+    info:
+      'An MVC, CRUD, full stack application that allows users to create, consume, crave, and delete burgers.',
+    info2: 'Built with mySQL, Node.js, Express, Handlebars, JavaScript, Bootstrap, HTML, and CSS.',
+    url: 'https://sheltered-bayou-56466.herokuapp.com/',
+    repo: 'https://github.com/josephbrimeyer/burger-time',
+  },
+  {
+    id: nanoid(),
     img: 'note-taker2.png',
     title: 'Note-Taker',
     info: 'An app that allows users to take notes on their device with data persistence.',
