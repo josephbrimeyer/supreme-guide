@@ -44,7 +44,7 @@ export const projectsData = [
     title: 'Burger-Time',
     info:
       'An MVC, full stack application that allows users to create, consume, crave, and delete burgers.',
-    info2: 'Built with MySQL, Node.js, Express, Handlebars, JavaScript, Bootstrap, HTML, and CSS.',
+    info2: 'Built with MySQL, Node, Express, Handlebars, JavaScript, Bootstrap, HTML, and CSS.',
     url: 'https://sheltered-bayou-56466.herokuapp.com/',
     repo: 'https://github.com/josephbrimeyer/burger-time',
   },
