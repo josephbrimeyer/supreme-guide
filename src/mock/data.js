@@ -59,6 +59,16 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'fitness-tracker.PNG',
+    title: 'Fitness-Tracker',
+    info:
+      'Fitness-Tracker is an application that allows the user to enter workout details.  They can track progress on a graph based on weight and duration.',
+    info2: 'Built with HTML, CSS, JavaScript, Express, Node, MongoDB, and MongoDB Atlas.',
+    url: 'https://morning-lowlands-25850.herokuapp.com/',
+    repo: 'https://github.com/josephbrimeyer/fitness-tracker', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'weather-dashboard.png',
     title: 'Weather-Dashboard',
     info:
@@ -72,7 +82,7 @@ export const projectsData = [
     img: 'workday-scheduler.png',
     title: 'Work-Day-Scheduler',
     info:
-      'Workday-Scheduler is a simple calendar application that allows the user to save events for each hour of the day.',
+      'Workday-Scheduler is a calendar application that allows the user to save events for each hour of the day.',
     info2: 'Built with HTML, CSS, JavaScript, and jQuery.',
     url: 'https://josephbrimeyer.github.io/workday-scheduler/',
     repo: 'https://github.com/josephbrimeyer/workday-scheduler', // if no repo, the button will not show up
