@@ -87,6 +87,15 @@ export const projectsData = [
     url: 'https://josephbrimeyer.github.io/workday-scheduler/',
     repo: 'https://github.com/josephbrimeyer/workday-scheduler', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'password-generator.png',
+    title: 'Password-Generator',
+    info: 'This application will generate a random password based on user-selected criteria.',
+    info2: 'Built with JavaScript, HTML, and CSS.',
+    url: 'https://josephbrimeyer.github.io/password-generator/',
+    repo: 'https://github.com/josephbrimeyer/password-generator',
+  },
 ];
 
 // CONTACT DATA
