@@ -34,7 +34,7 @@ export const projectsData = [
     img: 'CineMentality.png',
     title: 'CineMentality',
     info: 'A site to search for triggers in movies for those with mental health issues.',
-    info2: 'Built with HTML, CSS, JavaScript, and Handlebars.',
+    info2: 'Built with HTML, CSS, JavaScript, MySQL, Passport, and Handlebars.',
     url: 'https://young-reef-08407.herokuapp.com/',
     repo: 'https://github.com/josephbrimeyer/CineMentality', // if no repo, the button will not show up
   },
