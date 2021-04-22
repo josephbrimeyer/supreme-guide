@@ -41,7 +41,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'find-next-gig.png',
-    title: 'Band-Tour-Manager',
+    title: 'Find-Next-Gig',
     info: 'A site for locating upcoming concerts by band or artist',
     info2: 'Built with HTML, CSS, JavaScript, jQuery, API, Material UI, and GitHub.',
     url: 'https://merkraith.github.io/Band-Tour-Manager/',
