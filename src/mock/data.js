@@ -81,7 +81,7 @@ export const projectsData = [
     img: 'weather-dashboard.png',
     title: 'Weather-Dashboard',
     info:
-      'Weather-Dashboard is a weather application that that allows the user to search for the weather conditions of any city in the world.',
+      'Weather-Dashboard is a weather application that that allows the user to search for the weather conditions by city name or zip code.',
     info2: 'Built with HTML, CSS, JavaScript, jQuery, and Open Weather API.',
     url: 'https://josephbrimeyer.github.io/weather-dashboard/',
     repo: 'https://github.com/josephbrimeyer/weather-dashboard', // if no repo, the button will not show up
