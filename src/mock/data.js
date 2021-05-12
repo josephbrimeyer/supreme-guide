@@ -19,25 +19,16 @@ export const heroData = {
 export const aboutData = {
   img: 'profile1.JPG',
   paragraphOne:
-    'I am a Full Stack Web Developer with a background in operations managment, history, and art.  I apply critical thinking, a tireless work ethic, and strong leadership qualities to my work.',
+    'I am a Full Stack Web Developer with a background in operations managment, history, and art.  I apply critical thinking, a tireless work ethic, and strong leadership qualities to all of my work.',
   paragraphTwo:
-    'I have a passion for lifelong learning and the satisfaction that comes from solving complex problems.',
+    'I have a passion for lifelong learning and the satisfaction that comes from solving complex problems.  I am currently working for a startup on a team of developers and designers creating web applications.',
   paragraphThree:
-    'When I am not coding, I can be found on a Pacific Northwest trail, fishing, or playing basketball.',
+    'When I am not coding, I can be found on a Pacific Northwest trail, fishing, or coaching basketball.',
   resume: 'https://drive.google.com/file/d/1MmXdnUucysUwQL0xnVON5llGqOImC93G/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
-  {
-    id: nanoid(),
-    img: 'CineMentality.png',
-    title: 'CineMentality',
-    info: 'A site to search for triggers in movies for those with mental health issues.',
-    info2: 'Built with HTML, CSS, JavaScript, MySQL, Passport, and Handlebars.',
-    url: 'https://young-reef-08407.herokuapp.com/',
-    repo: 'https://github.com/josephbrimeyer/CineMentality', // if no repo, the button will not show up
-  },
   {
     id: nanoid(),
     img: 'find-next-gig.png',
@@ -49,10 +40,28 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'CineMentality.png',
+    title: 'CineMentality',
+    info: 'A site to search for movies that may contain sensitive content.',
+    info2: 'Built with HTML, CSS, JavaScript, MySQL, Passport, and Handlebars.',
+    url: 'https://young-reef-08407.herokuapp.com/',
+    repo: 'https://github.com/josephbrimeyer/CineMentality', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'fitness-tracker.PNG',
+    title: 'Fitness-Tracker',
+    info:
+      'Fitness-Tracker is an application that allows the user to enter and track workout details.',
+    info2: 'Built with HTML, CSS, JavaScript, Express, Node, MongoDB, and MongoDB Atlas.',
+    url: 'https://morning-lowlands-25850.herokuapp.com/',
+    repo: 'https://github.com/josephbrimeyer/fitness-tracker', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'burger-time.PNG',
     title: 'Burger-Time',
-    info:
-      'An MVC, full stack application that allows users to create, consume, crave, and delete burgers.',
+    info: 'An MVC application that allows users to create, consume, crave, and delete burgers.',
     info2: 'Built with MySQL, Node, Express, Handlebars, JavaScript, Bootstrap, HTML, and CSS.',
     url: 'https://sheltered-bayou-56466.herokuapp.com/',
     repo: 'https://github.com/josephbrimeyer/burger-time',
@@ -68,33 +77,13 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'fitness-tracker.PNG',
-    title: 'Fitness-Tracker',
-    info:
-      'Fitness-Tracker is an application that allows the user to enter workout details.  They can track progress on a graph based on weight and duration.',
-    info2: 'Built with HTML, CSS, JavaScript, Express, Node, MongoDB, and MongoDB Atlas.',
-    url: 'https://morning-lowlands-25850.herokuapp.com/',
-    repo: 'https://github.com/josephbrimeyer/fitness-tracker', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
     img: 'weather-dashboard.png',
     title: 'Weather-Dashboard',
     info:
-      'Weather-Dashboard is a weather application that that allows the user to search for the weather conditions by city name or zip code.',
+      'Weather-Dashboard is an application that that allows the user to search for weather conditions by city or zip code.',
     info2: 'Built with HTML, CSS, JavaScript, jQuery, and Open Weather API.',
     url: 'https://josephbrimeyer.github.io/weather-dashboard/',
     repo: 'https://github.com/josephbrimeyer/weather-dashboard', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'workday-scheduler.png',
-    title: 'Work-Day-Scheduler',
-    info:
-      'Workday-Scheduler is a calendar application that allows the user to save events for each hour of the day.',
-    info2: 'Built with HTML, CSS, JavaScript, and jQuery.',
-    url: 'https://josephbrimeyer.github.io/workday-scheduler/',
-    repo: 'https://github.com/josephbrimeyer/workday-scheduler', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
