@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     'I am a Full Stack Web Developer with a background in operations managment, history, and art.  I apply critical thinking, a tireless work ethic, and strong leadership qualities to all of my work.',
   paragraphTwo:
-    'I have a passion for lifelong learning and the satisfaction that comes from solving complex problems.  I am currently working for a startup on a team of developers and designers creating web applications.',
+    'I have a passion for lifelong learning and the satisfaction that comes from solving complex problems.  I am currently working for a startup with a team of developers and designers creating web applications.',
   paragraphThree:
     'When I am not coding, I can be found on a Pacific Northwest trail, fishing, or coaching basketball.',
   resume: 'https://drive.google.com/file/d/1MmXdnUucysUwQL0xnVON5llGqOImC93G/view?usp=sharing', // if no resume, the button will not show up
