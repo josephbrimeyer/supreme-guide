@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile1.JPG',
   paragraphOne:
-    'I am a Full Stack Web Developer with a background in operations managment, history, and art.  I apply critical thinking, a tireless work ethic, and strong leadership qualities to all of my work.',
+    'I am a Full Stack Web Developer with a background in operations managment, history, and art.  I apply critical thinking skills, a tireless work ethic, and strong leadership qualities to all of my work.',
   paragraphTwo:
     'I have a passion for lifelong learning and the satisfaction that comes from solving complex problems.  I am currently working for a startup with a team of developers and designers creating web applications.',
   paragraphThree:
