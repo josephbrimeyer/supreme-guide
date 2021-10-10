@@ -31,6 +31,17 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'parti-app.PNG',
+    title: 'Parti-Greetings',
+    info:
+      'Parti provides a new way to digitally celebrate events by creating digital greeting cards.',
+    info2:
+      'Built with ReactJS, HTML, CSS, JavaScript, Bootstrap, Express, Node.js, API, Passport, Facebook OAuth, Google OAuth, Cloudinary, Draft.js, EmailJS, Heroku, and GitHub.',
+    url: 'https://floating-ocean-70452.herokuapp.com/',
+    repo: 'https://github.com/MVP-Marketplace/Parti-App',
+  },
+  {
+    id: nanoid(),
     img: 'find-next-gig.png',
     title: 'Find-Next-Gig',
     info: 'A site for locating upcoming concerts by band or artist',
